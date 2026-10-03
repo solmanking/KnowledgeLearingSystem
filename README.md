@@ -7,3 +7,20 @@
         2:開啟學習介面並點擊每日學習課程。
         3:透過內建資料庫學習(當前設置連接ElectronicsTK為測試對像)。
         4:完成學習後獲得虛擬獎勵，以視覺化之正向反饋來引導大學生持續學習。
+<img width="903" height="333" alt="12" src="https://github.com/user-attachments/assets/885b1b35-fe1e-4ce0-a7de-58735c67a7a5" />
+
+測試專案之大學生學習成果:
+
+<img width="6207" height="3815" alt="ç¬¬äº_çµ_å__ç_§" src="https://github.com/user-attachments/assets/096ea5df-a0ec-4b89-acdb-08e5f39c9095" />
+
+
+<img width="1479" height="1109" alt="S__3055636" src="https://github.com/user-attachments/assets/d4cdac1c-cd34-49e3-8065-679cb8cc490c" />
+
+
+
+
+此專案後續參加Keer2024
+https://www.keer.org/keer2024/
+
+
+
